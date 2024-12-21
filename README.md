@@ -1,2 +1,2 @@
-# apnacoll
-this is apna college repo
+# apnacollege
+This is apna college repo.
