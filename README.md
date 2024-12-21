@@ -1,2 +1,4 @@
 # apnacollege
-This is apna college repo.
+This is apna college repository.
+<br>
+Author - Tanisha Gupta
